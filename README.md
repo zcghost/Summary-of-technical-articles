@@ -11,6 +11,8 @@
 * [函数之传参及代码封装的抽取](http://mp.weixin.qq.com/s/6t30HkHet1gOYHZ0cpuQiw)
 * [Git之强大分支及解决内部冲突与多人协作](http://mp.weixin.qq.com/s/wYV8snunw2O9JHrBl5d2dA)
 * [搞"鸡"友,寻"爱"?找Git就够了](http://mp.weixin.qq.com/s/iF3w2Q0sxIIDC7ubTbCQOA)
+* [精要javascript中的函数](http://mp.weixin.qq.com/s/XMWVePN65kqnd158K0I9mg)
+* [念念不忘的Es5,跃跃欲试的Es6](http://mp.weixin.qq.com/s/TLfWVxnDlreCBkLMNSaFBw)
 
 
 
