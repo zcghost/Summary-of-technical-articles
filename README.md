@@ -3,6 +3,8 @@
 
 以下为平时学习技术心得总结,欢迎朋友们多提意见和指正,离你最近的表示是最新的
 
+* [Es6中变量的解构与赋值](http://mp.weixin.qq.com/s/jl1XrA_QTW9FRY03cpvPuw)
+
 * [领略浏览器开发者工具](http://mp.weixin.qq.com/s/2Vu_HA_26CGiB4ciC9yETA)
 * [窥探js中的闭包](http://mp.weixin.qq.com/s/dxtMve0QPb8FVCIq-3OYkg)
 * [理解js中的作用域,作用域链以及初探闭包](http://mp.weixin.qq.com/s/2tdzgGB1ENnVvfCNdLtIUA)
